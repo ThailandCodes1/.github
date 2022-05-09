@@ -2,8 +2,8 @@
 <br>
 
 **<p><h2>🌐 - Thailand Codes</h2></p>**
-It is a team that works to help people in everything they need to solve their problems and help them build their own site or bot for all languages and programming library's .
-We always work to please and help everyone, thank you for choosing our server .
+**It is a team that works to help people in everything they need to solve their problems and help them build their own site or bot for all languages and programming library's .
+We always work to please and help everyone, thank you for choosing our server .**
 
 ## ⭐ - **Related To Us** :
 ### 📜・Discord: **[Official discord server](https://discord.gg/thailandcodes)**</p>
