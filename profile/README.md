@@ -1,12 +1,9 @@
 <p align="left"><img src="https://cdn.discordapp.com/attachments/884637183963701358/963457701579456552/about.png" alt="ThailandCodes1"></p>  
 <br>
 
-**<p><h2>👋 - Who Are We :</h2></p>**
-
-**<p><h3>ThailandCodes to help people solve their problems</h3></p>**
-
-**<p><h3>also, help them in all languages Our goal is to help you with your problems</h3></p>**
-<br>
+**<p><h2>:flag_us: : Thailand Codes</h2></p>**
+It is a team that works to help people in everything they need to solve their problems and help them build their own site or bot for all languages and programming library's .
+We always work to please and help everyone, thank you for choosing our server .
 
 ## ⭐ - **Related To Us** :
 ### 📜・Discord: **[Official discord server](https://discord.gg/thailandcodes)**</p>
