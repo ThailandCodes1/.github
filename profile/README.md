@@ -1,4 +1,4 @@
-<p align="left"><img src="https://cdn.discordapp.com/attachments/791419921867210803/954456493590208652/Start.png" alt="ThailandCodes1"></p>  
+<p align="left"><img src="https://cdn.discordapp.com/attachments/884637183963701358/963457701579456552/about.png" alt="ThailandCodes1"></p>  
 <br>
 
 **<p><h2>👋 - Who Are We :</h2></p>**
