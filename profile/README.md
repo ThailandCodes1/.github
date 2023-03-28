@@ -1,8 +1,7 @@
 ### Hi there 👋, We Are Thailandcodes Team
 #### We help solve programming problems and teach programming
-We help solve programming problems and teach programming
 
-<img src = "https://cdn.discordapp.com/attachments/773360907320819723/1082309731072344084/code.png" width="360">
+<img src = "https://cdn.discordapp.com/attachments/1078704397703458956/1079384367694090330/fe2ac151dffc9f80.png" width="360">
 
 Thailand Codes, is a team whose goal is to help everyone in the field of programming education and others.
 You will find everything you need to create your own bot or website, we offer you all the codes, projects and speed of support you need.. 
