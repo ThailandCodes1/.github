@@ -1,12 +1,15 @@
-### Hi there 👋, We Are Thailandcodes Team
-#### We help solve programming problems and teach programming
-
 <img src = "https://cdn.discordapp.com/attachments/1124967062381547530/1184598946497175572/New_Project_-_2022-10-25T121311.png?ex=6733c03d&is=67326ebd&hm=aa5659900c980cfc9a9c0f7f072da458ea256fb51f107e17ae4db07c452e23ae&" width="360">
 
-Thailand Codes, is a team whose goal is to help everyone in the field of programming education and others.
-You will find everything you need to create your own bot or website, we offer you all the codes, projects and speed of support you need.. 
+Hi everyone :wave: .
 
-Thailand for every beginner in programming .
+This is the Official Server for Thailand Codes ™.
+Here's a link to this server: [ThailandCodes](https://discord.gg/thailandcodes)
+
+<img src = "https://cdn.discordapp.com/attachments/1124967062381547530/1184598986829602917/1.png?ex=6733c047&is=67326ec7&hm=90a5b2a0a84e57dd852f8d1ae50b752e37b1c67136776fe56554376876fdbb47&" width="360">
+
+Thailand Codes, is a team whose goal is to help everyone in the field of programming education and others.
+You will find everything you need to create your own bot or website, we offer you all the codes, projects and speed of support you need..
+Thailand for every beginner in programming, We're here To help you being Pro programmer .
 
 ---
 
