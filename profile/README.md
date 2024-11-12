@@ -20,6 +20,7 @@ You can send an email here `thailandcodes@outlook.sa` or dm us here you can also
 We have a bot for applications when we are in need of support team, you can apply from here <#1168526454334693436> .
 
 <img src = "https://media.discordapp.net/attachments/1124967062381547530/1184599130908135546/1.png?ex=6733c069&is=67326ee9&hm=706559f8226bfa8b32e76dfeb071a8879bec3397995c94c7601121b6714f353f&=&format=webp&quality=lossless&width=555&height=73" width="360">
+
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thailandcodes1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Thailandcodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Thailandcodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/thailandcodes)  
