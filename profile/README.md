@@ -17,7 +17,7 @@ You can send an email here `thailandcodes@outlook.sa` or dm us here you can also
 
 <img src = "https://media.discordapp.net/attachments/1124967062381547530/1184599088445001880/1.png?ex=6733c05f&is=67326edf&hm=995a47b50f85c432ff6c4e37e88cbd0005b6bf79e7e3109e8d398acdf9e4ed69&=&format=webp&quality=lossless&width=960&height=50" width="360">
 
-We have a bot for applications when we are in need of support team, you can apply from here <#1168526454334693436> .
+We have a bot for applications when we are in need of support team, you can apply from here #apply-to-support .
 
 <img src = "https://media.discordapp.net/attachments/1124967062381547530/1184599130908135546/1.png?ex=6733c069&is=67326ee9&hm=706559f8226bfa8b32e76dfeb071a8879bec3397995c94c7601121b6714f353f&=&format=webp&quality=lossless&width=555&height=73" width="360">
 
